@@ -1,6 +1,8 @@
 # 🐰 **Happy Hyo Jeong Day**
 Happy Birthday [Hyo Jeong]()
 
+## 🐰 [**Play**]
+
 ## 🐰 **What is it?**
 - 최효정 탄생 28주년을 맞이해서, 효정이가 부른 노래 초성 게임
 - 효정이가 부른 노래에서 랜덤으로 가사 출제함
@@ -23,7 +25,7 @@ Happy Birthday [Hyo Jeong]()
 ## 🐰 **Event**
 - 게임 속 퀴즈 만점자 중 5분을 추첨해, 기프티콘을 드리겠습니다.(국내 한정)
   - 게임을 풀고 나오는 폼에 정보를 적어주세요.
-  
+
 ## 🐰 **Credit**
 - Maker : [Leo Kim](https://github.com/llleeo0421)
   - E-mail : dev.augustleo@gmail.com
